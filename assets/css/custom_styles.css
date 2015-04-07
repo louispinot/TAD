@@ -1,0 +1,78 @@
+#head .overlay {
+  background-color: rgba(0,0,0,0.45);
+  max-width: 645px;
+  margin:auto;
+  padding: 15px;
+  font-size: 15px
+}
+
+#start-driving h3 {
+  margin-bottom: 0;
+}
+
+#start-driving .lyft img {
+  margin-top: 43px;
+}
+
+#start-driving .sidecar img {
+  margin-top: 64px;
+}
+
+.highlight .h-body {
+  font-weight: 400;
+}
+
+.faq-item {
+  margin-bottom:20px;
+}
+
+#qualify ul {
+  font-size:20px;
+  margin-top: 20px
+}
+
+#qualify .btn {
+  margin-top: 90px;
+}
+
+#become {
+  margin-top:100px
+}
+
+.navbar .brand {
+  color: white !important;
+  font-size: 16px;
+}
+.navbar .brand span {
+  font-size: 32px;
+}
+
+#more-info {
+  margin-top: 110px;
+}
+#more-info h3 {
+  margin-top: 5px
+}
+#more-info ul {
+  list-style: none;
+}
+.maincontent {
+  margin-bottom: 50px;
+}
+#curriculum-content {
+  margin-top: 110px;
+}
+
+.step1 h3 {
+  text-align: center;
+}
+.step1 .lyft img {
+  margin-top: 30px;
+  margin-left: 34px;
+}
+.step1 .sidecar img {
+  margin-top: 45px;
+}
+.step1 .uber img {
+  margin-left: 20px;
+}
