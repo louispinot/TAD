@@ -50,9 +50,7 @@
 #more-info {
   margin-top: 110px;
 }
-#more-info h3 {
-  margin-top: 5px
-}
+
 #more-info ul {
   list-style: none;
 }
@@ -76,7 +74,13 @@
 .step1 .uber img {
   margin-left: 20px;
 }
-
+.step1 ul {
+  list-style: none;
+  padding-left: 10px;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 10px;
+}
 #background-img {
   background-color: red;
   padding-top: 100px;
@@ -85,13 +89,20 @@
   background-position: center center;
   background-attachment: fixed;
   background-color: #181015;
-  background-size: cover; }
+  background-size: cover;
+}
+
+.founders {
+  margin-top: 30px;
 }
 
 
-
-
-
+.founders.sollars img {
+  width: auto;
+  height: 175px;
+  position:relative;
+  bottom:30px;
+}
 
 
 
