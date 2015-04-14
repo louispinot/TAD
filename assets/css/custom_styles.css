@@ -1,4 +1,4 @@
-#head .overlay {
+#head .overlay, #background-img .overlay {
   background-color: rgba(0,0,0,0.45);
   max-width: 645px;
   margin:auto;
@@ -76,3 +76,41 @@
 .step1 .uber img {
   margin-left: 20px;
 }
+
+#background-img {
+  background-color: red;
+  padding-top: 100px;
+  background-image: url( ../images/sizeHead.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-color: #181015;
+  background-size: cover; }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
