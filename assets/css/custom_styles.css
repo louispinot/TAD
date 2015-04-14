@@ -104,7 +104,16 @@
   bottom:30px;
 }
 
-
+#background-img .overlay {
+  margin-top: 40px;
+}
+#background-img .overlay h1 {
+  color: white;
+  margin:0;
+  text-align: center;
+  font-weight: 400;
+  padding-top: 10px;
+}
 
 
 
