@@ -104,6 +104,12 @@
   bottom:30px;
 }
 
+
+.founders.trotman img {
+  width: auto;
+  height: 175px;
+}
+
 #background-img .overlay {
   margin-top: 40px;
 }
