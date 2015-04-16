@@ -121,9 +121,16 @@
   padding-top: 10px;
 }
 
+/*#uberModal button {
+  position: relative;
+  left: 70%;
+  bottom: 20px;
+}*/
 
-
-
+#uberModal .button-group {
+  text-align: center;
+  font-weight: 400;
+}
 
 
 
